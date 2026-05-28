@@ -9,7 +9,6 @@ import {
   Heart,
   MessageCircleOff,
   MessageSquare,
-  Search,
   SlidersHorizontal,
   Sparkles,
   ThumbsUp,
